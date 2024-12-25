@@ -1,0 +1,69 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-25 19:29:24 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2024-12-25 19:12:26 +0000",
+      "has_black_balloon": "2024-12-25 19:12:26 +0000",
+      "has_lime_balloon": "2024-12-25 19:12:26 +0000",
+      "has_cyan_balloon": "2024-12-25 19:12:26 +0000",
+      "has_light_blue_balloon": "2024-12-25 19:12:26 +0000",
+      "has_gray_balloon": "2024-12-25 19:12:26 +0000",
+      "has_pink_balloon": "2024-12-25 19:12:26 +0000",
+      "has_light_gray_balloon": "2024-12-25 19:12:26 +0000",
+      "has_white_balloon": "2024-12-25 19:12:26 +0000",
+      "has_blue_balloon": "2024-12-25 19:12:26 +0000",
+      "has_yellow_balloon": "2024-12-25 19:12:26 +0000",
+      "has_purple_balloon": "2024-12-25 19:12:26 +0000",
+      "has_orange_balloon": "2024-12-25 19:12:26 +0000",
+      "has_brown_balloon": "2024-12-25 19:12:26 +0000",
+      "has_green_balloon": "2024-12-25 19:12:26 +0000",
+      "has_magenta_balloon": "2024-12-25 19:12:26 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2024-12-25 19:12:26 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-25 19:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-25 19:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-25 19:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-25 19:23:17 +0000",
+      "minecraft:zombie": "2024-12-25 19:23:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2024-12-25 19:12:27 +0000",
+      "minecraft:windswept_savanna": "2024-12-25 19:13:04 +0000",
+      "minecraft:plains": "2024-12-25 19:13:03 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
