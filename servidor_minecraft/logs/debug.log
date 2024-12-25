@@ -11056,3 +11056,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casin
 [25Dec2024 19:29:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx left the game
 [25Dec2024 19:29:46.349] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Osettx
 [25Dec2024 19:29:46.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Osettx
+[25Dec2024 19:31:36.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:31:36.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 19:36:36.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:36:36.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 19:41:36.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:41:36.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
