@@ -806,3 +806,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casin
 [26Dec2024 15:53:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx left the game
 [26Dec2024 15:53:05.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Osettx
 [26Dec2024 15:53:05.408] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 15:55:39.849] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66802a58
+[26Dec2024 15:55:39.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Osettx[/127.227.121.10:54415] logged in with entity id 5419 at (136.76543162181414, 71.0, 68.30000001192093)
+[26Dec2024 15:55:39.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx joined the game
+[26Dec2024 15:55:39.973] [Server thread/INFO] [Jade/]: Syncing config to Osettx (c08f24e8-f558-3781-87b0-c20d1ac8b154)
+[26Dec2024 15:55:39.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Osettx (18)
+[26Dec2024 15:55:39.995] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Osettx
+[26Dec2024 15:57:21.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Osettx lost connection: Disconnected
+[26Dec2024 15:57:21.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx left the game
+[26Dec2024 15:57:21.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Osettx
