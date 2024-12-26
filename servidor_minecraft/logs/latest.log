@@ -793,3 +793,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casin
 [26Dec2024 15:15:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
 [26Dec2024 15:16:46.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Osettx> sexo nigga gays
 [26Dec2024 15:45:06.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[26Dec2024 15:45:33.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[26Dec2024 15:45:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[26Dec2024 15:45:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[26Dec2024 15:45:53.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[26Dec2024 15:45:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[26Dec2024 15:46:07.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[26Dec2024 15:50:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[26Dec2024 15:51:11.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[26Dec2024 15:51:13.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[26Dec2024 15:53:05.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Osettx lost connection: Timed out
+[26Dec2024 15:53:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Osettx left the game
+[26Dec2024 15:53:05.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Osettx
+[26Dec2024 15:53:05.408] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
