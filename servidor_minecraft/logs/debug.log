@@ -10243,3 +10243,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casin
 [26Dec2024 15:10:57.830] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [26Dec2024 15:11:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
 [26Dec2024 15:12:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[26Dec2024 15:15:49.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 15:15:49.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 15:15:51.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[26Dec2024 15:15:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[26Dec2024 15:15:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[26Dec2024 15:16:46.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Osettx> sexo nigga gays
+[26Dec2024 15:20:49.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 15:20:49.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
