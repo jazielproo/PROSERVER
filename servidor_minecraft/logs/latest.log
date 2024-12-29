@@ -789,3 +789,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casin
 [29Dec2024 19:42:32.933] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Osettx
 [29Dec2024 19:43:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set the time to 1000]
 [29Dec2024 19:44:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[29Dec2024 19:53:15.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Adventure Mode]
+[29Dec2024 19:53:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[29Dec2024 19:53:18.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[29Dec2024 19:53:21.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[29Dec2024 19:53:57.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[29Dec2024 19:54:53.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Survival Mode]
+[29Dec2024 19:56:39.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set own game mode to Creative Mode]
+[29Dec2024 20:00:08.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Osettx: Set the time to 1000]
